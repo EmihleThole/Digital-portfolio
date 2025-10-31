@@ -4,7 +4,7 @@
 
 I'm a final-year Diploma in ICT student majoring in Application Development at the Cape Peninsula University of Technology, and I've also completed a Higher Certificate in ICT. My passion lies in creating efficient, user-friendly software solutions that solve real-world problems.
 
-I have hands-on experience with **Java, Python, SQL, HTML/CSS, and JavaScript**. I've worked on several academic and personal projects, including mobile app designs using Figma, desktop applications with Java Swing, and database-driven systems. I'm also comfortable using tools like **GitHub** and applying **Agile principles** in team environments.
+I have hands-on experience with **Java, React, Python, SQL, HTML/CSS, and JavaScript**. I've worked on several academic and personal projects, including mobile app designs using Figma, desktop applications with Java Swing, and database-driven systems. I'm also comfortable using tools like **GitHub** and applying **Agile principles** in team environments.
 
 ---
 
